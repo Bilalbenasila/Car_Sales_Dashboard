@@ -4,7 +4,7 @@ This project showcases a fully interactive Car Sales Dashboard built using Power
 
 ---
 
-## ❗ Problem Statement (Summary)
+## ❗ Problem Statement
 
 To enhance visibility into our car dealership’s sales performance, we needed a **dynamic, interactive Car Sales Dashboard** built in **Power BI**. The goal was to centralize and visualize our sales KPIs in real time, enabling data-driven decision-making and identification of key business trends.
 
