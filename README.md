@@ -78,7 +78,6 @@ This solution empowers our team to monitor real-time performance, identify oppor
 ## 📬 Contact
 
 For questions or collaboration:
-**Bilal**
 
 * 📧 Email: [bilalbenassila@gmail.com](mailto:bilalbenassila@gmail.com)
 * 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/bilalbenasila)
